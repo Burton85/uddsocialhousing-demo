@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.843ad82a.css",
-    "main.js": "./static/js/main.bdb45dc9.js",
+    "main.css": "./static/css/main.72ce4be3.css",
+    "main.js": "./static/js/main.b4340b24.js",
     "static/js/988.dd717e4a.chunk.js": "./static/js/988.dd717e4a.chunk.js",
     "static/media/GenSenMaruGothicTW-Bold.ttf": "./static/media/GenSenMaruGothicTW-Bold.a473ff778cd8b6da12a9.ttf",
     "static/media/GenSenMaruGothicTW-Regular.ttf": "./static/media/GenSenMaruGothicTW-Regular.239c1e12c237089cdc0a.ttf",
@@ -79,12 +79,12 @@
     "static/media/floor3-info-lg.png": "./static/media/floor3-info-lg.7589d043b73856075bde.png",
     "static/media/scroll.svg": "./static/media/scroll.7d3538c20ae8de8453a6e06b59d1a0e6.svg",
     "index.html": "./index.html",
-    "main.843ad82a.css.map": "./static/css/main.843ad82a.css.map",
-    "main.bdb45dc9.js.map": "./static/js/main.bdb45dc9.js.map",
+    "main.72ce4be3.css.map": "./static/css/main.72ce4be3.css.map",
+    "main.b4340b24.js.map": "./static/js/main.b4340b24.js.map",
     "988.dd717e4a.chunk.js.map": "./static/js/988.dd717e4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.843ad82a.css",
-    "static/js/main.bdb45dc9.js"
+    "static/css/main.72ce4be3.css",
+    "static/js/main.b4340b24.js"
   ]
 }
